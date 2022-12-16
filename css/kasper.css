@@ -21,5 +21,7 @@ ul {
     margin-left: auto;
     margin-right: auto;
 }
+/* Small */
+@media (min-width: 768px) {
 
   /* End Global Rules */
