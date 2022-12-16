@@ -27,5 +27,7 @@ ul {
         width: 750px;
   }
 }
+/* Medium */
+@media (min-width: 992px) {
 
   /* End Global Rules */
