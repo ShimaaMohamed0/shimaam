@@ -55,6 +55,7 @@ ul {
     text-transform: uppercase;
     left: 50%;
     transform: translateX(-50%);
+    height: 2px;
 }
 .main-heading h2::before {
     content: "";
