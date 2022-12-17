@@ -53,13 +53,10 @@ ul {
     position: relative;
     margin-bottom: 70px;
     text-transform: uppercase;
-    left: 50%;
-    transform: translateX(-50%);
-    height: 2px;
-    background-color: #333;
-    bottom: -30px;
-    width: 120px;
+
 }
+.main-heading h2::before {
+    
 .main-heading h2::before {
     content: "";
     position: absolute;
