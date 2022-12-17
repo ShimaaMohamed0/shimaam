@@ -749,6 +749,8 @@ header nav .form i {
 }
 .pricing .plans .plan ul li {
     padding: 20px;
+    position: relative;
+}
 
 
 
