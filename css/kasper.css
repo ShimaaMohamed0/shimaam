@@ -80,5 +80,9 @@ header nav .toggle-menu {
     font-size: 22px;
 }
 @media (min-width: 768px) {
+    header nav .toggle-menu {
+        display: none;
+    }
+  }
 
 
