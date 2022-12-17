@@ -668,6 +668,7 @@ header nav .form i {
     content: "";
     position: absolute;
     border-style: solid;
+    border-width: 8px;
 
 
 
