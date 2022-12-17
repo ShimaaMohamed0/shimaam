@@ -54,6 +54,7 @@ ul {
     margin-bottom: 70px;
     text-transform: uppercase;
     height: 2px;
+    background-color: #333;
 }
 .main-heading h2::before {
     content: "";
