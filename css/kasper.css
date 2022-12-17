@@ -278,6 +278,8 @@ header nav .form i {
   }
 }
 .services .srv-box {
+    display: flex;
+}
 
 
 
