@@ -406,6 +406,7 @@ header nav .form i {
     }
   }
   .portfolio .imgs-container .box img {
+    max-width: 100%;
 
 
 
