@@ -439,6 +439,8 @@ header nav .form i {
 /* Start Video */
 /* Start Video */
 .video {
+    position: relative;
+}
 
 
 
