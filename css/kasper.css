@@ -366,6 +366,7 @@ header nav .form i {
 /* End Design */
 /* Start Portfolio */
 .portfolio {
+    padding-top: var(--section-padding);
 
 
 
