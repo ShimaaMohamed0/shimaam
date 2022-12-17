@@ -35,6 +35,8 @@ ul {
   }
   /* Large */
   @media (min-width: 1200px) {
+    .container {
+
 
 
   /* End Global Rules */
