@@ -92,8 +92,9 @@ header nav .toggle-menu {
         display: none;
     }
     header nav .toggle-menu:hover + ul {
-        
-    header nav ul li a {
+        display: flex;
+    }
+      header nav ul li a {
         padding: 15px !important;
       }
     }
