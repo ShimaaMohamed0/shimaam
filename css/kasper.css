@@ -370,6 +370,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
 }
 .portfolio .shuffle {
+    display: flex;
 
 
 
