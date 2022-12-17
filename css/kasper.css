@@ -312,6 +312,7 @@ header nav .form i {
     background-image: url("../images/features.jpg");
     background-size: cover;
     display: flex;
+    align-items: center;
 
 
 
