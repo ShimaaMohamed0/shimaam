@@ -43,6 +43,7 @@ ul {
   
 
   /* End Global Rules */
+  /* Start Components */
   /* Start Header */
 header {
     position: absolute;
@@ -220,6 +221,7 @@ header nav .form i {
     border-color: var(--main-color);
 }
 /* End Landing */
+
 
 
 
