@@ -732,6 +732,8 @@ header nav .form i {
 }
 .pricing .plans .plan .head span::before {
     content: "$";
+    font-size: 25px;
+
 
 
 
