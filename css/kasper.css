@@ -619,6 +619,7 @@ header nav .form i {
 }
 .our-skills .testimonials .bullets {
     display: flex;
+    justify-content: center;
 
 
 
