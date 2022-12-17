@@ -52,6 +52,8 @@ ul {
     font-size: 40px;
     position: relative;
     margin-bottom: 70px;
+    text-transform: uppercase;
+}
   /* Start Header */
 header {
     position: absolute;
